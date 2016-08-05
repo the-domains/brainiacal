@@ -6,9 +6,10 @@ color:
   saturation: 0.758365769404918
   rhythmicContrast: 0.5312711873557419
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#292929'
+    - '#5B7876'
+    - '#8F9E8B'
+    - '#F2E6B6'
+    - '#412A22'
 name: Brainiacal
+description: learning to think
