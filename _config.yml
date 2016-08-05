@@ -1,4 +1,3 @@
-layout_spectrum: 0.011533718788996339
 typography_spectrum: 0.8533544391393661
 color:
   brandStrength: 0.8636066874023527
@@ -11,5 +10,7 @@ color:
     - '#8F9E8B'
     - '#F2E6B6'
     - '#412A22'
+layout_spectrum: 0.011533718788996339
 name: Brainiacal
+title: a place for brainiacs
 description: learning to think
