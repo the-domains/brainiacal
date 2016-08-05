@@ -1,4 +1,6 @@
 typography_spectrum: 0.8533544391393661
+content_rating:
+  adult: false
 color:
   brandStrength: 0.8636066874023527
   lightness: 0.9731309453491122
@@ -11,6 +13,10 @@ color:
     - '#F2E6B6'
     - '#412A22'
 layout_spectrum: 0.011533718788996339
+author:
+  name: david putman
+  email: davidputman@davidputman.com
+  url: 'http://www.davidputman.com'
 name: Brainiacal
 title: a place for brainiacs
 description: learning to think
